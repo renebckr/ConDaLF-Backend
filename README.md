@@ -24,3 +24,7 @@ The start_backend.sh will run the ConDaLF Backend with data processing in python
 # To-Do
 
 - DTLS Support
+
+---
+
+We are using [CPM](https://github.com/cpm-cmake/CPM.cmake) to manage our libcoap dependency.
