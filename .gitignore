@@ -1,0 +1,16 @@
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode
+.cache
+*.code-workspace
+
+# Build artifacts
+build
+doc
+/cmake/CPM_*.cmake
